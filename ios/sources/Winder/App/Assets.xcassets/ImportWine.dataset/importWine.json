@@ -1,0 +1,101 @@
+[{
+	"id": 1,
+	"importer": "(주)비티스",
+	"nameKor": "미 펑떼",
+	"nameEng": "MI PENTES",
+	"producer": "LACOURTE GODBILLON",
+	"importDate": "2021-09-13",
+	"manufactureCountry": "프랑스",
+	"exportCountry": "프랑스"
+},
+{
+	"id": 2,
+	"importer": "(주)비티스",
+	"nameKor": "샤이요 오뜨 비뉴",
+	"nameEng": "CHAILLOTS HAUTES VIGNES",
+	"producer": "LACOURTE GODBILLON",
+	"importDate": "2021-09-13",
+	"manufactureCountry": "프랑스",
+	"exportCountry": "프랑스"
+},
+{
+	"id": 3,
+	"importer": "레드와인앤제이와이",
+	"nameKor": "그라티엔 메이어 끌레망 드 루아르 브뤼",
+	"nameEng": "GRATIEN ET MEYER CREMANT DE LOIRE BRUT",
+	"producer": "GRATIEN MEYER",
+	"importDate": "2021-09-13",
+	"manufactureCountry": "프랑스",
+	"exportCountry": "프랑스"
+},
+{
+	"id": 4,
+	"importer": "레드와인앤제이와이",
+	"nameKor": "알프레드 그라티엔 브뤼",
+	"nameEng": "ALFRED GRATIEN BRUT",
+	"producer": "CHAMPAGNE ALFRED GRATIEN",
+	"importDate": "2021-09-13",
+	"manufactureCountry": "프랑스",
+	"exportCountry": "프랑스"
+},
+{
+	"id": 5,
+	"importer": "레드와인앤제이와이",
+	"nameKor": "알프레드 그라티엔 퀴베 파라다이스 브뤼",
+	"nameEng": "ALFRED GRATIEN CUVEE PARADIS BRUT",
+	"producer": "CHAMPAGNE ALFRED GRATIEN",
+	"importDate": "2021-09-13",
+	"manufactureCountry": "프랑스",
+	"exportCountry": "프랑스"
+},
+{
+	"id": 6,
+	"importer": "에노테카코리아(주)",
+	"nameKor": "카사 로호 인비저블맨 (14.5%)",
+	"nameEng": "THE INVISIBLE MAN",
+	"producer": "BODEGAS SAN MARTIN DE ABALOS SL",
+	"importDate": "2021-09-13",
+	"manufactureCountry": "스페인",
+	"exportCountry": "스페인"
+},
+{
+	"id": 7,
+	"importer": "주식회사 동원와인플러스",
+	"nameKor": "비욘디산티 스키디온네",
+	"nameEng": "JACOPO BIONDI SANTI SCHIDIONE",
+	"producer": "JACOPO BIONDI SANTI",
+	"importDate": "2021-09-13",
+	"manufactureCountry": "이탈리아",
+	"exportCountry": "이탈리아"
+},
+{
+	"id": 8,
+	"importer": "(주)비티스",
+	"nameKor": "트라디씨옹 750ml",
+	"nameEng": "BRUT TRADITION",
+	"producer": "SERGE MATHIEU ",
+	"importDate": "2021-09-13",
+	"manufactureCountry": "프랑스",
+	"exportCountry": "프랑스"
+},
+{
+	"id": 9,
+	"importer": "(주)루벵코리아",
+	"nameKor": "메르뀌레 레 샤피떼",
+	"nameEng": "MERCUREY LE CHAPITRE",
+	"producer": "DOMAINE LORENZON",
+	"importDate": "2021-09-13",
+	"manufactureCountry": "프랑스",
+	"exportCountry": "프랑스"
+},
+{
+	"id": 10,
+	"importer": "아베크와인주식회사",
+	"nameKor": "라다치니 블랑 드 까베르네",
+	"nameEng": "RADACINI BLANC DE CABERNET",
+	"producer": "RADACINI WINES SRL",
+	"importDate": "2021-09-13",
+	"manufactureCountry": "몰도바",
+	"exportCountry": "몰도바"
+}
+]
