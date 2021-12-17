@@ -7,7 +7,7 @@
 <img src="https://dm2305files.storage.live.com/y4mXUFt00KbbJgusJ7fXQiXFUmkSaFmgZojzg667kq5xQ1kHbAMjeQS0Q_2PrFzOTfuRlnXdUPgHMwSOWddaM2MQWmWIgxxYuOIqH-boszsUVaSgC6WpUk_Yed3k1G7sLH2B2eVa55iEfQSKiOm5NrlA5r6M0VpSMbMzBRfWHf15SQJ2eT5Znr_sGe7BlvtgENL?width=881&height=421&cropmode=none" />
 
 |브랜치명|설명
-|-|-|-
+|---|---|---
 |master|가장 기본이자 기준이 되는 브랜치, 실제 서비스되는 제품이 배포되는 브랜치 입니다. 버전에 따른 태그로 구분합니다.
 |develop|개발 전용 브랜치입니다. 개발자들은 해당 브랜치를 기준으로 개발해야 하는 기능별 브랜치를 생성하고 완료후 작업한 내용들이 합쳐지는 브랜치 입니다.
 |feature|새로운 기능을 개발하는 브랜치입니다. 작업이 완료되면 develop 브랜치에 병합합니다.
