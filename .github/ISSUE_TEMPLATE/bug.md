@@ -6,32 +6,31 @@ labels: 'Bug'
 assignees: ''
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**어떤 버그인가요**
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+어떤 버그인지 간단한 설명을 해주세요
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**버그를 재현하려면**
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+재현하기 위한 과정을 알려주세요
+1.  '...' 로 들어가서
+2. '....' 를 클릭하고
+3. '....' 까지 스크롤합니다
+4. 짜잔 에러네!
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+**정상적인 결과는 무엇이죠**
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+버그가 발생하지 않았다면, 어떤 결과가 나오길 기대했나요
 
-**Additional context**
-Add any other context about the problem here.
+**스크린샷**
+
+참조 가능한 스크린샷이 있을까요
+
+**실행 환경:**
+ - Device: [e.g. Desktop, iPhone6]
+ - OS / version: [e.g. Window 10.1, iOS12.1]
+ - Browser / version [e.g. chrome, safari]
+ 
+**덧붙임**
+
+추가적인 설명이 필요하다면 작성해주세요
