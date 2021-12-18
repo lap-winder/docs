@@ -17,6 +17,9 @@ hotfix|실제 서비스로 배포후 버그가 발생했을때 디버깅을 위�
 ### Combine with Fork workflow
 <img src="https://dm2305files.storage.live.com/y4mMRcdgMMb3xtze6odVdm_GL_zb1m7rKfk_65wY0j4huZK5mx7rYgJ7IsiEiwQQDXGzdPC741Z5h-Q_OsyNsvaU96c-dSlKGXa9rDCb4z8sribIeOfWkYMzguGN6SATqzXIOykvSYB6bcmhAEmst1zgOxR-NrzqcndkG2L21tftaCFN-5V-QhycnbXWAlok1wN?width=1281&height=1025&cropmode=none" />
 
+### Issue
+
+`TYPE: CONTENTS'
 
 ## Reference
 [Udacity Git Commit Message Style Guide](https://udacity.github.io/git-styleguide/)   
