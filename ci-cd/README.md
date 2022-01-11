@@ -21,6 +21,7 @@ Jenkins는 시스템 패키지나 도커를 통해 설치 가능하며, JRE(Java
 
 ---
 
+
 ### Install Jenkins on AWS EC2 Instance
 
 #### 사전 준비
@@ -117,3 +118,25 @@ Jenkins는 시스템 패키지나 도커를 통해 설치 가능하며, JRE(Java
   
    `Dashboard -> Configure a cloud`
    <img src="https://www.jenkins.io/doc/book/resources/tutorials/AWS/configure_cloud.png">
+
+
+### Github Authentication Plug-in
+
+#### 사전 준비
+
+1. Github application registration
+   + Organization setting	
+	```
+	https://github.com/organizations/{organizaitons-name}/settings/applications/new
+	```
+	+ Personal setting
+   	```
+   	https://github.com/settings/applications/new
+   	```
+ + Homepage URL / Authorization callback URL
+   + Homepage URL : https://jenkins-server 젠킨스 서버 주소
+   + Authorization callback URL : https://jenkins-server/securityRealm/finishLogin
+      + `/securityRealm/finshLogin`	반드시 입력
++ Register application
++ Client & Secret key
++ 
