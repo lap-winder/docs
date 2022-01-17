@@ -13,7 +13,7 @@ AWS Lambda to resize images from S3 bucket using node/sharp
 2. Ondemand Image Resizing Infra
     * Resize - AWS Lambda
     * Cache - Redis
-3. 초기설정 가이드
+3. Ondemand Image Resizing Process
 
 > ### 1. Ondemand Image Resizing 도입 배경
 
